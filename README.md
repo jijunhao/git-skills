@@ -31,8 +31,8 @@ git clone https://github.com/jijunhao/git-skills.git
   * [安装与更新](01安装与更新.md)
   * [配置Git](02配置Git.md)
   * [Git托管平台](03Git托管平台.md)
-    * [附录A 许可协议](附录A 许可协议.md)
-    * [附录B SSH密匙](附录B SSH密匙.md)
+    * [附录A 许可协议](附录A-许可协议.md)
+    * [附录B SSH密匙](附录B-SSH密匙.md)
   * [常用流程和命令](04常用流程和命令.md)
   * [回滚](05回滚.md)
   * [标签](06标签.md)
@@ -60,4 +60,4 @@ git clone https://github.com/jijunhao/git-skills.git
 
 
 
- 
+
