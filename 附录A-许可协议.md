@@ -2,7 +2,7 @@
 
 一旦你决定如何处置你项目的版权，接下来要做的便是创建一个分发许可。它将阐述你希望别人如何使用或不能如何使用你的项目。
 
-![](.\figures\开源许可.jpg)
+<img src="./figures/开源许可.jpg" />
 
 + MIT 许可证（http://opensource.org/licenses/MIT）允许人们在注明原作者的前提下自由 使用代码，并且你不需要为衍生的软件负责。jQuery 和 Rails 均使用 MIT 许可证。 
 + Apache 许可证（http://www.apache.org/licenses/LICENSE-2.0.html）类似于 MIT 许可证， 但明确将原作者的专利授权给用户，并要求用户提供变更说明，描述你的作品在之前的版本上做了哪些修改。Apache、Subversion 和 NuGet 均使用 Apache 许可证。 
