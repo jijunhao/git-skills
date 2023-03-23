@@ -41,7 +41,7 @@ git clone https://github.com/jijunhao/git-skills.git
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/jijunhao/git-skills/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/jijunhao/git-skills/blob/master/LICENSE)
 
 <!-- links -->
 
